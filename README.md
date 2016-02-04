@@ -7,8 +7,10 @@ A Raspberry Pi/ [Pi-LITE](https://github.com/CisecoPlc/PiLite) based iBeacon tri
 - Set up the Pi-LITE, the [README of node-pilite](https://github.com/woodyrew/node-pilite) is a good reference
 
 ### To Run
-`npm install`
-`sudo node app.js`
+```bash
+$ npm install
+$ sudo node app.js
+```
 
 ### Npm packages used
 - https://www.npmjs.com/package/pilite
